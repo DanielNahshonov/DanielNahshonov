@@ -39,7 +39,7 @@ Feel free to explore each project and dive into my code!
 
 If you have any questions, suggestions, or just want to connect, here's how you can reach me:
 
-- Email: dnakhshunov@gmail.com
+- Email: daniel.n@circ.zone
 - LinkedIn: www.linkedin.com/in/daniel-nahshonov-12bb181a7
 - GitHub: https://github.com/DanielNahshonov
 
