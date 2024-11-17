@@ -1,55 +1,87 @@
-- # Hi there, I'm @DanielNahshonov!
+# Hi there, I'm @DanielNahshonov! 👋
 
-Welcome to my GitHub page! I'm a former restaurant manager with a degree in economics and management who has transitioned into a career as a full-stack web developer. My interests and skills span across the full stack of web development.
+Welcome to my GitHub page! I’m a passionate full-stack web developer with a solid background in economics and management. I transitioned from being a data analyst and restaurant manager into the tech industry, where I focus on creating scalable web applications and robust back-end systems.
+
+---
 
 ## About Me
 
-- Name: Daniel Nahshunov
-- Profession: Web Developer
-- Education: Degree in Economics and Management
+- **Name**: Daniel Nahshunov  
+- **Profession**: Full-Stack Developer  
+- **Education**: B.Sc. in Economics and Management, Academic College of Tel Aviv  
+
+I specialize in developing intuitive, responsive, and efficient web applications while leveraging my analytical and problem-solving skills gained from prior roles. My experience working in high-pressure environments has honed my ability to meet tight deadlines and collaborate effectively in diverse teams.
+
+---
 
 ## Skills
 
-I have experience and expertise in the following areas:
+I have hands-on experience and expertise in:
 
-- HTML
-- CSS
-- JavaScript
-- MongoDB
-- React
+### **Front-End**
+- JavaScript (ES6+), TypeScript
+- React.js, HTML5, CSS3 (including Tailwind CSS)
+- Multilingual application development (react-i18next)
 
-My experience in the restaurant business has provided me with unique skills in management, communication, and problem-solving, which I apply in my new role as a web developer.
+### **Back-End**
+- Node.js, Express.js, Nest.js
+- Python, Flask
+
+### **Databases**
+- MySQL, PostgreSQL, MongoDB
+- AWS Lambda services
+
+### **Development Tools**
+- Git, GitHub, Jira, Visual Studio Code
+- CI/CD pipelines, Agile methodologies
+
+My skillset also includes a strong understanding of microservices architecture, serverless computing, and API development.
+
+---
 
 ## Projects
 
-In my repository, you'll find various projects that I'm developing and maintaining. Here are some of them:
+Here are a few projects that showcase my abilities:
 
---CodeWars and LeetCode Practice
+### 1. **Interactive Multilingual Website**
+- Built an interactive website featuring a responsive menu and integrated navigation links (Google Maps & Apple Maps).
+- Implemented multilingual support for enhanced accessibility using react-i18next.
+- **Tech Stack**: React, Tailwind CSS, JavaScript, i18next.
 
-This folder contains solutions to coding challenges from platforms like CodeWars and LeetCode. I use these platforms to hone my problem-solving skills and improve my algorithmic thinking.
+### 2. **Portfolio Web App**
+- Designed and developed a responsive portfolio website showcasing my projects, skills, and experience.
+- Deployed using GitHub Pages for easy access and continuous updates.
+- **Tech Stack**: React, TypeScript, GitHub Pages.
 
---React Practice
+### 3. **CodeWars and LeetCode Practice**
+- A collection of coding challenge solutions showcasing my problem-solving skills and algorithmic thinking.
+- Challenges cover a wide range of topics, including data structures and algorithms.
 
-In this section, you'll find projects related to my React practice. These projects include small applications, components, and exercises aimed at mastering React development. I use this practice to strengthen my understanding of React concepts such as component composition, state management, and lifecycle methods.
+---
 
+## Experience
 
-Feel free to explore each project and dive into my code!
+- **2024 – Present**: Full-Stack Developer at Circlez.ai  
+  Working on building scalable features in React and TypeScript, leveraging microservices, and collaborating with cross-functional teams under Agile workflows.
+
+- **2023 – Present**: Data Analyst at Egged  
+  Used Python, Power Pivot, and Excel to analyze data, improve efficiency, and generate actionable insights.
+
+---
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, here's how you can reach me:
+Feel free to connect with me for any questions, suggestions, or collaboration opportunities:
 
-- Email: daniel.n@circ.zone
-- LinkedIn: www.linkedin.com/in/daniel-nahshonov-12bb181a7
-- GitHub: https://github.com/DanielNahshonov
+- **Email**: daniel.n@circ.zone  
+- **LinkedIn**: [Daniel Nahshonov](https://www.linkedin.com/in/daniel-nahshonov-12bb181a7)  
+- **GitHub**: [DanielNahshonov](https://github.com/DanielNahshonov)  
+
+---
 
 ## Collaboration
 
-I'm always open to new projects and collaboration opportunities. If you have interesting projects or potential collaborations in mind, feel free to reach out!
-
-
-
-<!---
+I'm always open to exciting projects and collaboration opportunities. If you have something in mind, don't hesitate to reach out!  <!---
 DanielNahshonov/DanielNahshonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
