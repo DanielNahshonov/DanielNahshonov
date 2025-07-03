@@ -73,7 +73,7 @@ Here are a few projects that showcase my abilities:
 
 Feel free to connect with me for any questions, suggestions, or collaboration opportunities:
 
-- **Email**: daniel.n@circ.zone  
+- **Email**: danieln@019.co.il  
 - **LinkedIn**: [Daniel Nahshonov](https://www.linkedin.com/in/daniel-nahshonov-12bb181a7)  
 - **GitHub**: [DanielNahshonov](https://github.com/DanielNahshonov)  
 
